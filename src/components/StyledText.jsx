@@ -19,12 +19,14 @@ const styles = StyleSheet.create({
     fontWeight: theme.fontWeights.bold,
   },
   subheading: {
-    fontSize: theme.fontSizes.subheading
+    fontSize: theme.fontSizes.subheading,
   },
   textAlignCenter: {
     textAlign: 'center',
   },
   language: {    
+    marginTop: 7,
+    marginBottom: 7,
     padding: 6,
     borderRadius: 5,
     overflow: 'hidden',
