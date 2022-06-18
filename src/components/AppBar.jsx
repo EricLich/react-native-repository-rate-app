@@ -11,9 +11,8 @@ const styles = StyleSheet.create({
     paddingBottom: 10,
     paddingLeft: 10
   },
-  text: {
+  text: {    
     color: theme.appBar.textPrimary,
-    paddingVertical: 10,
     fontWeight: 'bold',
     fontSize: 24
   }
